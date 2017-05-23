@@ -1,0 +1,22 @@
+{
+  "name": "learningexpress",
+  "version": "1.0.0",
+  "description": "learning the express framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shekharOnRuby/learningExpress.git"
+  },
+  "author": "shekhar karande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shekharOnRuby/learningExpress/issues"
+  },
+  "homepage": "https://github.com/shekharOnRuby/learningExpress#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
