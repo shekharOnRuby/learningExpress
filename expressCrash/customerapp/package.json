@@ -1,0 +1,16 @@
+{
+  "name": "customerapp",
+  "version": "1.0.0",
+  "description": "Simple customer managment app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express":"*",
+    "body-parser":"*",
+    "morgan" :"*"
+  },
+  "author": "Shekhar Karande, with Brad Traversy",
+  "license": "ISC"
+}
